@@ -33,8 +33,6 @@ Navigate to the project directory:
 
 cd wikipedia-concept-crawler
 ```
-Run the main script (webcrawler.py):
-
 
 # Data Output 📊
 Links 🔗: A list of related Wikipedia article links.

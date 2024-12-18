@@ -7,8 +7,6 @@ This project is a Python-based web crawler that extracts and processes concept d
 - **Wikipedia Article Extraction** 📖: Crawls through Wikipedia articles to extract data related to concepts.
 - **Category Parsing** 🔍: Extracts relevant categories linked to the article.
 - **Link Extraction** 🔗: Identifies and extracts related links to other Wikipedia articles.
-- **Data Export** 💾: Saves the extracted data in CSV format or an SQLite database for easy access and analysis.
-- **Error Handling** ⚠️: Robust error handling for network issues and missing data.
 
 ## Requirements 🔧
 
